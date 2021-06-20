@@ -1,3 +1,5 @@
-export default function Home() {
-  return <h1>Hello</h1>
+const Home = () => {
+  return <button className='btn btn-primary'>DaisyUI Button</button>
 }
+
+export default Home
